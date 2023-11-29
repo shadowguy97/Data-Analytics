@@ -1,12 +1,7 @@
-# Data-Analytics
-Journey to Data analytics
-
-This Repo would have various branches showing various datasets and various data representation that was done on them.
-
-Feel free to look through and drop a comment.
+## HR ANALYSTICS DATASET ##
 
 ##
-Started an analysis on a CSV data file for HR data, gotten from Kaggle.
+Started an analysis on a CSV data file for HR data, gotten from Kaggle. - (29th November 2023)
 https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset/data
 
 Below are a feew screenshots showing some of the analysis done.

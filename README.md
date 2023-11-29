@@ -1,5 +1,5 @@
 # Data-Analytics
-Journey to Data analytics
+Journey into Data analytics
 
 This Repo would have various branches showing various datasets and various data representation that was done on them.
 

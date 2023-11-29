@@ -10,6 +10,3 @@ screenshot 1
 
 ![image](https://github.com/shadowguy97/Data-Analytics/assets/28502083/91da12ca-14f7-48fc-b258-31515e946cde)
 Screenshot 2
-
-![image](https://github.com/shadowguy97/Data-Analytics/assets/28502083/ba038ead-2344-4f9e-ae5c-07d828cda83a)
-Screenshot 3
